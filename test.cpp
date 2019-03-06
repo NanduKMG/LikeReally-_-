@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 
-    cout<<"Is the bug fixed?";
+    cout<<"The bug is not fixed";
     return 0;
 }
